@@ -1,2 +1,3 @@
 #### Matlab scripts for Experimental Biophysics
-##### Includes scripts for LS (light-scattering), SAXS(small-angle x-ray scattering)
+##### --> Will includes scripts for LS (light-scattering), SAXS(small-angle x-ray scattering), updating~~
+##### --> Added: Matlab script for MALS (multi-angl light scattering)
